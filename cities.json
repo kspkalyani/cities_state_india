@@ -6100,8 +6100,48 @@
         "State":"Rajasthan"
     },
     {
-      "id":"1221",
+       "id":"1221",
        "City":"Dispur",
        "State":"Assam"
+    },
+    {
+       "id":"1222",
+       "City":"Mohali",
+       "State":"Punjab"
+    },
+    {
+       "id":"1223",
+       "City":"Baroda",
+       "State":"Gujarat"
+    },
+    {
+       "id":"1224",
+       "City":"Kanpur",
+       "State":"Uttar Pradesh"
+    },
+    {
+       "id":"1225",
+       "City":"Noida",
+       "State":"Delhi"
+    },
+    {
+       "id":"1226",
+       "City":"Gurgaon",
+       "State":"Delhi"
+    },
+    {
+       "id":"1227",
+       "City":"Pritampura",
+       "State":"Delhi"
+    },
+    {
+       "id":"1228",
+       "City":"Ghaziabad",
+       "State":"Uttar Pradesh"
+    },
+    {
+       "id":"1229",
+       "City":"shahidabad",
+       "State":"Uttar Pradesh"
     }
 ]
